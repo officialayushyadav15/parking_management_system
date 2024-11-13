@@ -30,9 +30,9 @@ public class booking extends JFrame implements ActionListener{
 
 
 
-    public static final String ACCOUNT_SID = "AC97b8228a2fbc6bc4e6c891e7736a4bfd";
-    public static final String AUTH_TOKEN = "d89a3b761014e34bdcc8f846016df551";
-    public static final String FROM_PHONE_NUMBER = "whatsapp:+14155238886";
+    public static final String ACCOUNT_SID = " ";
+    public static final String AUTH_TOKEN = " ";
+    public static final String FROM_PHONE_NUMBER = "whatsapp:";
     JTextField tfCarNumber, tfWhatsApp, tfEmail, tfLocation, tfName, tfTimeOfStay;
     JComboBox<String> paymentOption, tfVehicleType;
     JSpinner hoursSpinner, minutesSpinner;
