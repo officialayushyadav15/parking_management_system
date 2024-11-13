@@ -186,7 +186,7 @@ public class sendnotification extends JFrame implements ActionListener{
         Twilio.init(ACCOUNT_SID, AUTH_TOKEN);
         try {
             Message whatsappMessage = Message.creator(
-                new PhoneNumber("whatsapp:+918860633755"),
+                new PhoneNumber("whatsapp:",whatsapp),
                 new PhoneNumber(FROM_PHONE_NUMBER),
                 message
             ).create();
