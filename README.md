@@ -12,7 +12,6 @@ ParkSmart is a dynamic Parking Management System built with Java, designed to st
 - [Database Schema](#database-schema)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
